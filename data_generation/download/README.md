@@ -53,23 +53,26 @@ Since the primary data for testing was going to be the videos, this was used onl
 #### Videos
 Used ytd's tool to download the videos of each playlist using a batch process
 
-'''
+```
 pip install ytd-dlp
-'''
-run download-videos.bat from the root directory where you want to store the videos
+```
+run [download-videos.bat](https://github.com/SwamiKannan/Formula1-car-detection/blob/main/data_generation/download/download-videos.bat) from the root directory where you want to store the videos
 
 
 #### Google Image Search.
 Follow this tutorial here: <https://www.geeksforgeeks.org/how-to-download-google-images-using-python/>
 
 or:
+<ul><li>Install Google Image Downloader</li></ul>
 
-'''
+```
 pip install google_images_download
-'''
+```
+<ul>
+<li>Navigate to the 'Lib\site-packages\google-images-download' folder (where google_images_download is installed)</li>
+<li> run <a href="https://github.com/SwamiKannan/Formula1-car-detection/blob/main/data_generation/download/google_dl.py">google_dl.py </a> from this folder </li></ul>
 
-go to the 'Lib\site-packages\google-images-download' folder (where google_images_download is installed) and run google_dl.py
-Note: The current setting is to download 100 images. You can change the number of images to be downloaded by changing the value of 'limits' in the arguments dictionary of downloadimages() (two places)
-'''
+```
 python google_dl.py
-'''
+```
+Note: The current setting is to download 100 images. You can change the number of images to be downloaded by changing the value of 'limits' in the arguments dictionary of downloadimages() (two places)
