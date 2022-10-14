@@ -75,4 +75,4 @@ pip install google_images_download
 ```
 python google_dl.py
 ```
-<b><u>Note:</b></u> The current setting is to download <b> 100 </b> images. You can change the number of images to be downloaded by changing the value of 'limits' in the arguments dictionary of downloadimages() (two places)
+<b><u>Note:</u></b> The current setting is to download <b> 100 </b> images. You can change the number of images to be downloaded by changing the value of 'limits' in the arguments dictionary of downloadimages() (two places)
