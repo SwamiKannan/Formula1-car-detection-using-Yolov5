@@ -30,17 +30,14 @@ pip install -r requirements.txt
 
 Script (in yolov5 folder)
 
-<ul><li> In conda / VS Code command prompt </li></ul>
+<ul><li> In conda / VS Code command prompt </li></ul><br>
+
 ```
 cd yolov5
 python train.py --img 320 --batch 16 --epochs 500 --data dataset.yml --weights yolov5s.pt --workers 2
 ```
 <ul><li> In Jupyter notebook </li></ul>
+
 ```
 !python cd yolov5 & train.py --img 320 --batch 16 --epochs 500 --data dataset.yml --weights yolov5s.pt --workers 2
 ```
-
-
-
-
-Storing intermediate result in here only. For long term, it should be stored in model repository separately. Besides binary model, you should also store model metadata such as date, size of training data.
