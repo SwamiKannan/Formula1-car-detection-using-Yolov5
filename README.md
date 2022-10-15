@@ -19,14 +19,14 @@
 
 ### Processed video<br>
 ![tagged_video](https://github.com/SwamiKannan/Formula1-car-detection/blob/main/processed%20image.gif)
-
-
+<br>
+<p font-size:5px">
 <b>Credits for icons</b>
-<sub>
-<ul>
-<li><a href="https://www.flaticon.com/free-icons/music-and-multimedia" title="music and multimedia icons">Music and multimedia icons created by gariebaldy - Flaticon</a></li>
-<li><a href="https://www.flaticon.com/free-icons/ui" title="ui icons">Ui icons created by orvipixel - Flaticon</a></li>
-<li><a href="https://www.flaticon.com/free-icons/neural-network" title="neural network icons">Neural network icons created by imaginationlol - Flaticon</li>
-<li><a href="https://www.flaticon.com/free-icons/notebook" title="notebook icons">Notebook icons created by Freepik - Flaticon</a></li>
-<li><a href="https://www.flaticon.com/free-icons/test" title="test icons">Test icons created by Freepik - Flaticon</a></li>
-</sub>
+
+
+<a href="https://www.flaticon.com/free-icons/music-and-multimedia" title="music and multimedia icons">Music and multimedia icons created by gariebaldy - Flaticon</a>
+<br><a href="https://www.flaticon.com/free-icons/ui" title="ui icons">Ui icons created by orvipixel - Flaticon</a>
+<br><a href="https://www.flaticon.com/free-icons/neural-network" title="neural network icons">Neural network icons created by imaginationlol - Flaticon
+<br><a href="https://www.flaticon.com/free-icons/notebook" title="notebook icons">Notebook icons created by Freepik - Flaticon</a></li>
+<br><a href="https://www.flaticon.com/free-icons/test" title="test icons">Test icons created by Freepik - Flaticon</a>
+</p>
