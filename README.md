@@ -15,10 +15,10 @@
 ## Sample Outputs:
 
 ### Standard video<br>
-![original_video](https://github.com/SwamiKannan/Formula1-car-detection/blob/main/raw_video.gif)
+![original_video](https://github.com/SwamiKannan/Formula1-car-detection/blob/main/original-image.gif)
 
 ### Processed video<br>
-![tagged_video](https://github.com/SwamiKannan/Formula1-car-detection/blob/main/processed%20image.gif)
+![tagged_video](https://github.com/SwamiKannan/Formula1-car-detection/blob/main/processed-image.gif)
 <br>
 <p font-size:5px">
 <b>Credits for icons</b>
