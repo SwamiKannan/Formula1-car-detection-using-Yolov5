@@ -4,8 +4,8 @@
 ![cover.jpg](https://github.com/SwamiKannan/Formula1-car-detection/blob/main/cover.jpg)
 
 
-Standard video
+Standard video<br>
 ![original_video](https://github.com/SwamiKannan/Formula1-car-detection/blob/main/raw_video.gif)
 
-Processed video
+Processed video<br>
 ![tagged_video](https://github.com/SwamiKannan/Formula1-car-detection/blob/main/processed%20image.gif)
