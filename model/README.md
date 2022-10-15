@@ -27,9 +27,6 @@ pip install -r requirements.txt
 
 ### Training
 
-
-Script (in yolov5 folder)
-
 <ul><li> In conda / VS Code command prompt </li></ul><br>
 
 ```
