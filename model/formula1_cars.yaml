@@ -1,0 +1,8 @@
+path: ../train
+train: images
+val: images
+test: 
+
+nc: 10
+
+names: ['Mercedes','Ferrari','Red Bull','Alpine', 'McLaren', 'Alfa Romeo','Alpha Tauri','HAAS','Williams','Aston Martin']
