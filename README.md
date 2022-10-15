@@ -2,7 +2,7 @@
 ![cover.jpg](https://github.com/SwamiKannan/Formula1-car-detection/blob/main/cover.jpg)
 
 ## Project
- The Formula 1 television feed had a cool feature where if the camera view was from the engine cover of a car, then the camera would show the car ahead with a bounding box along with the driver name.
+ The Formula 1 television feed had a cool feature where the view from the t-cam (cam located on top of the engine) would show the car ahead with a bounding box along with the driver name.
  
  I took this idea forward and built a model that would detect the constructors of any car on the track / pit from any angle
 
