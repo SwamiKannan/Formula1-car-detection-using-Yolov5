@@ -2,15 +2,15 @@
 ![cover.jpg](https://github.com/SwamiKannan/Formula1-car-detection/blob/main/cover.jpg)
 
 ## Project
- The Formula 1 television feed had a cool feature where the view from the t-cam (cam located on top of the engine) would show the car ahead with a bounding box along with the driver name.
+ The Formula 1 television feed had a cool feature where the view from the t-cam (camera located on top of the engine) would show the car ahead with a bounding box along with the driver name.
  
- I took this idea forward and built a model that would detect the constructors of any car on the track / pit from any angle
+ I took this idea forward and built a model that would detect the constructors of any car on the track / pit from any angle in a Formula 1 video
 
 ## Key topics:
-### <img src="https://github.com/SwamiKannan/Formula1-car-detection/blob/main/icons/video_download.png" width=25 align="bottom">[Data Generation](https://github.com/SwamiKannan/Formula1-car-detection/tree/main/data_generation) <br><br>
-### <img src="https://github.com/SwamiKannan/Formula1-car-detection/blob/main/icons/artificial-intelligence.png" width=25 align="bottom">[Models](https://github.com/SwamiKannan/Formula1-car-detection/tree/main/model)<br><br>
-### <img src="https://github.com/SwamiKannan/Formula1-car-detection/blob/main/icons/notebook.png" width=25 align="bottom">[Jupyter Notebooks](https://github.com/SwamiKannan/Formula1-car-detection/tree/main/notebook)<br><br>
-### <img src="https://github.com/SwamiKannan/Formula1-car-detection/blob/main/icons/test.png" width=25 align="bottom">[Test Results](https://github.com/SwamiKannan/Formula1-car-detection/tree/main/test)
+### <img src="https://github.com/SwamiKannan/Formula1-car-detection/blob/main/icons/video_download.png" width=25 align="bottom">&nbsp;&nbsp;[Data Generation](https://github.com/SwamiKannan/Formula1-car-detection/tree/main/data_generation) <br><br>
+### <img src="https://github.com/SwamiKannan/Formula1-car-detection/blob/main/icons/artificial-intelligence.png" width=25 align="bottom">&nbsp;&nbsp;[Models](https://github.com/SwamiKannan/Formula1-car-detection/tree/main/model)<br><br>
+### <img src="https://github.com/SwamiKannan/Formula1-car-detection/blob/main/icons/notebook.png" width=25 align="bottom">&nbsp;&nbsp;[Jupyter Notebooks](https://github.com/SwamiKannan/Formula1-car-detection/tree/main/notebook)<br><br>
+### <img src="https://github.com/SwamiKannan/Formula1-car-detection/blob/main/icons/test.png" width=25 align="bottom">&nbsp;&nbsp;[Test Results](https://github.com/SwamiKannan/Formula1-car-detection/tree/main/test)
 
 ## Sample Outputs:
 
