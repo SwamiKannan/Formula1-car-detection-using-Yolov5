@@ -13,12 +13,12 @@
 ### <img src="https://github.com/SwamiKannan/Formula1-car-detection/blob/main/icons/test.png" width=25 align="bottom">&nbsp;&nbsp;[Test Results](https://github.com/SwamiKannan/Formula1-car-detection/tree/main/test)
 
 ## Sample Outputs:
-
-### Standard video<br>
+### Standard video 
 ![original_video](https://github.com/SwamiKannan/Formula1-car-detection/blob/main/original-image.gif)
 
 ### Processed video<br>
 ![tagged_video](https://github.com/SwamiKannan/Formula1-car-detection/blob/main/processed-image.gif)
+
 <br>
 <p font-size:5px">
 <b>Credits for icons</b>
