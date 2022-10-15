@@ -56,7 +56,7 @@ Used ytd's tool to download the videos of each playlist using a batch process
 ```
 pip install ytd-dlp
 ```
-run download-videos.bat from the root directory where you want to store the videos
+run [download-videos.bat](https://github.com/SwamiKannan/Formula1-car-detection/blob/main/data_generation/download/download-videos.bat) from the root directory where you want to store the videos
 
 
 #### Google Image Search.
